@@ -1,0 +1,8 @@
+bokeh
+tornado
+numpy
+scipy
+opencv-python
+gwyfile
+colorcet
+matplotlib
